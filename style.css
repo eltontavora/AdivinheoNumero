@@ -1,0 +1,11 @@
+#entrada{
+    clear: both;
+    display: block;
+    margin-bottom: 20px;
+    font-size: 30px;
+    width: 5em;
+    height: 3em;
+    text-align: center;
+    border-radius: 10px;
+    display: nome;
+}
