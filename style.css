@@ -9,3 +9,12 @@
     border-radius: 10px;
     display: nome;
 }
+
+button{
+    font-size: 200%;
+    font-weight: bold;
+    border-radius: 20px;
+    width: 10em;
+    height: 2em;
+    outline: none;
+}
